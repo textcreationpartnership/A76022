@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Commander in Chief of the forces in Scotland, also another declaration of the officers of the Army in Scotland to the Churches of Christ in the three nations, together with three letters from the Lord General Monck, Commander in Chief of the forces in Scotland, and one of the commissioners by Act of Parliament for the government of the Army of this Commonwealth, viz. 1. To Mr. Speaker, 2. To the Lord Fleetwood, 3. To the Lord Lambert.</title>
+            <author>Scotland. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76022</idno>
+            <idno type="STC">Wing A884A</idno>
+            <idno type="STC">Thomason E1000_18</idno>
+            <idno type="STC">ESTC R207842</idno>
+            <idno type="EEBO-CITATION">99866870</idno>
+            <idno type="PROQUEST">99866870</idno>
+            <idno type="VID">119158</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119158)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1000[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Commander in Chief of the forces in Scotland, also another declaration of the officers of the Army in Scotland to the Churches of Christ in the three nations, together with three letters from the Lord General Monck, Commander in Chief of the forces in Scotland, and one of the commissioners by Act of Parliament for the government of the Army of this Commonwealth, viz. 1. To Mr. Speaker, 2. To the Lord Fleetwood, 3. To the Lord Lambert.</title>
+                  <author>Scotland. Army.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Christopher Higgins, in Harts Close, over against the Trone Church,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119158:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Commander in Chief of the Forces in SCOTLAND, Alſo another DECLARATION Of the Officers of the ARMY in <hi>SCOTLAND</hi> To the Churches of Chriſt in the three NATIONS, Together with Three LETTERS from the Lord General MONCK, Commander in Chief of the Forces in <hi>Scotland,</hi> and one of the Commiſſioners by Act of Parliament for the Government of the Army of this Commonwealth, <hi>VIZ.</hi>
+               <list>
+                  <item>1. To Mr. <hi>SPEAKER,</hi>
+                  </item>
+                  <item>2. To the Lord <hi>FLEETWOOD,</hi>
+                  </item>
+                  <item>3. To the Lord <hi>LAMBERT.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Chriſtopher Higgins,</hi> in <hi>Harts</hi> Cloſe, over againſt the Trone Church, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_of_commander-in-chief">
+            <pb facs="tcp:119158:2"/>
+            <pb n="3" facs="tcp:119158:2"/>
+            <head>A DECLARATION OF THE COMMANDER in Chief of the Forces in <hi>SCOTLAND,</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving, to the great grief of our hearts, been in<g ref="char:EOLhyphen"/>formed of a moſt unhappy difference lately fallen out betwixt the Parliament and ſome Officers of the Army at <hi>London,</hi> which hath occaſioned the diſplacing of ſundry of the ſaid Officers; And alſo the in interruption of the Members of Parliament in the diſ<g ref="char:EOLhyphen"/>charge of their Duty, We therefore, having earneſtly beſought the LORD to direct us in this great and weighty Affair, wherein the Liberty and Peace of theſe Nations, and the Inte<g ref="char:EOLhyphen"/>reſt of the Godly and Faithfull therein is ſo nearly concerned, do finde it our duty to Declare, and we do hereby Declare,</p>
+            <p>That we ſhall uſe our Chriſtian endeavours to the utmoſt for the begetting of a Right underſtanding and Reconciliation be<g ref="char:EOLhyphen"/>twixt the Parliament and the ſaid Officers of the Army. And we do alſo Declare, That we ſhall, through the ſtrength of God, aſſert and maintain the Freedom and Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>viledges of the preſent Parliament, the ſo often, and lately acknowledged Supream Authority of theſe Nations, and not ſuffer the Members thereof to be illegally interrupted or moleſted in the diſcharge of their Duties; And we do ſolemnly avow to all the world, that our only intention in doing this, is to preſerve the Rights of our Country, and to protect and encourage all the Godly and Faith<g ref="char:EOLhyphen"/>full therein, according to our Declaration to the Churches, lately emitted and publiſhed; and likewiſe to eſtabliſh the Peace of theſe Nations, and the Government of a Free-State or Com<g ref="char:EOLhyphen"/>monwealth, To which we ſtand obliged by ſeveral Vows and
+<pb n="4" facs="tcp:119158:3"/>Engagements, made before GOD and many Witneſſes: And as we have within us the Teſtimony of ſincere hearts and un<g ref="char:EOLhyphen"/>byaſſed conſciences to encourage us in theſe our Vndertakings, ſo we doubt not of the concurrent aſſiſtance of all the unpreju<g ref="char:EOLhyphen"/>diced Faithfull in the Land, for whoſe ſakes principally we are drawn forth to this Engagement.</p>
+            <p>And we therefore invite all our Brethren of the Arnw, and of the <hi>Militia,</hi> and all others that profeſſe love to GGD and His People, and to their own and their Poſterities Liberties, to come and give us their chearfull aid in this Work, whereunto the Lord hath called us, leſt they be made a Prey to the Luſts of Men, and then bewail the loſſe of this opportunity which God hath put into their hands.</p>
+            <closer>
+               <signed>
+                  <hi>Signed in the Name and by the Conſent of the Commander in Chief and the Officers of the Army in <hi>Scotland.</hi> WILLIAM CLARK, Secretary.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="declaration_of_army_officers">
+            <head>A Declaration of the Officers of the Army in Scotland to the Churches of Chriſt in the three Nations.</head>
+            <p>ALL the great works the Lord Jeſus hath been doing in theſe three poor Nations, hath been to make his Churches in them a glory, that he might eſtabliſh <hi>Jeruſalem</hi> a praiſe in the Earth, and we are confident his heart will ne<g ref="char:EOLhyphen"/>ver be at reſt, nor his providences ſhortned till upon this Glory he cre<g ref="char:EOLhyphen"/>ates a defence, and that ſo ſtrong that the Gates of Hell ſhall not prevail a<g ref="char:EOLhyphen"/>gainſt it; the eſtabliſhing of his Churches we conceive to ſtand upon a double foundation, Truth, and Peace, the Defence he will create upon it, is his own pre<g ref="char:EOLhyphen"/>ſence with them in Chriſt, and the inſtruments in his hand which he has raiſed to be a ſhelter to them in the worſt of times.</p>
+            <p>Of this latter we may ſpeak it to the praiſe of free-grace, that no perſons in their capacity have been more inſtrumental in the hand of God then the Army,
+<pb n="5" facs="tcp:119158:3"/>through whoſe faithful endeavours for Chriſt and his Ordinances, and the Li<g ref="char:EOLhyphen"/>berties of his people, God has been pleaſed to redeem the precious priviledges of his Saints, (upon whoſe account all other Rights are only valuable,) from mixture in their Ordinances, from unjuſt and Antiſcriptural uſurpation upon their conſciences, to a State of Freedom, to profeſſe and practice any thing that is warranted by the word, though diverſly interpreted according to that meaſure of the ſpirit, which Jeſus Chriſt the head is pleaſed to diſpenſe.</p>
+            <p>The proſecution of which, while God gives us an oppertunity to ſerve our Generation, we muſt ſtill hold forth to be the principle and practiſe of the Ar<g ref="char:EOLhyphen"/>my, however different they may ſeem in the wayes they pitch upon to pro<g ref="char:EOLhyphen"/>mote it.</p>
+            <p>The bleſſing alſo that has followed it, though it is not the alone motive to make us at this time declare it to you, becauſe we know Chriſts work is wages (let it be ſuceſs'd how he pleaſes, by ſowing in tears or reaping in joy) Yet it is enough to encourage us as to the iſſue let it be what it will, the work carrying in it acceptance with him whom we would onely pleaſe, and engage<g ref="char:EOLhyphen"/>ments of your ſelves, as to your prayers coincident with the end of all his glory, which the Churches are to hold forth in all ages.</p>
+            <p>
+               <hi>In order</hi> to this we doe (as in the omnicient eye of our dear Lord Jeſus who walks in the midſt of you) <hi>declare.</hi>
+            </p>
+            <p>
+               <hi>Firſt, That we own and aſſert the Authority of this preſent Parliament which is now through ſad miſtakes and miſapprehenſions interrupted; and principally, be<g ref="char:EOLhyphen"/>cauſe We do jude that a well regulated Common-wealth is the ſafeſt Government to ſecure the juſt Liberties of all the Churches of Chriſt though in differing forms, and to ballance the Lamented and circumſtantial differences (whoſe wounds are yet bleeding) in the great ſcale of Chriſtian and ſpiritual Love, and as far as we know our own hearts, the ſecurity it may give to our civil rights as men, are dear to us onely as they relate to this moſt deſired and promiſed unity amongſt Gods peo<g ref="char:EOLhyphen"/>ple though very divers in their judgements.</hi>
+            </p>
+            <p>
+               <hi>Secondly, That to this end, if the Lord again pleaſe out of reſerved mercy to his poor Churches, to unite the Parliament and Army together, We do declare, that we ſhall aſſert it as the undoubted right of the Churches, and humbly repreſent it to the Parliament as our great requeſt, that an impartial and juſt countenance accor<g ref="char:EOLhyphen"/>ding to the Word, and the nature of their Priviledges, may be afforded to all that may encourage the Miniſtry of the Churches, and that may hedge about the flock of Chriſt, that they may feed quietly in all Godlineſs, and this with the largeſt al<g ref="char:EOLhyphen"/>lowance that Gods word will admit of both to Paſtors and people in what way ſoever conſtituted and congregated.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, As further conducing to this end, We do profeſſe our ſelves to be per<g ref="char:EOLhyphen"/>ſons that would follow Truth in Love, and therefore can readily and heartily al<g ref="char:EOLhyphen"/>low
+<pb n="6" facs="tcp:119158:4"/>that in affection to all who profeſs Chriſt, and walk <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him as they have re<g ref="char:EOLhyphen"/>ceived him, which we may not poſſibly in Judgement; for as far as we have attain<g ref="char:EOLhyphen"/>ed we would walk up, and where we think not the ſame things, we ſhall till God re<g ref="char:EOLhyphen"/>veal further, pray for a Spirit to practiſe that which is unqueſtionably revealed, that we love one another</hi> even as Chriſt hath loved us.</p>
+            <p>
+               <hi>Fourthly, We do further Declare, however the preſent exigent may enforce us to the reſtraint of ſome of our Brethren and Friends, whoſe miſtakes about their way to this end, appear to our conſciences to be ſuch as we cannot reconcile either by the Word or the promiſes and proteſtations to ſuch a purpoſe as we Declare for, That it is not upon the leaſt account out of diſreliſh of their Judgements as to any profeſſion of Chriſt, which they hold forth, but onely to preſerve the civil peace and unity of the Army, that there may be a due time left to the Parliament the ſu<g ref="char:EOLhyphen"/>preme Authority of the Nation, to put in Execution the forementioned Ends which they have promiſed and obliged themſelves to, to ſettle this birth-right, which we have aſſerted in the poſſeſſion of the Churches, as a fundamental we prize and va<g ref="char:EOLhyphen"/>lue as part of the Teſtament in the blood of Jeſus Chriſt, and we ſhould account it a greater mercy to have it as free born ſons of Chriſts viſible Kingdom, then whatſoever we as meer Subjects of this Common-wealth may challenge were our outward Liberties never ſo much advantaged.</hi>
+            </p>
+            <p>Of which, that we may ſee the Topſtone as well as the foundation, We would deſire all the Lords Remembrancers to give him no reſt till he makes Sion a praiſe in the Earth, and ſhall account it no ſmall incouragement to our endeavours, let what difficulty ſoever attend them, to have your prayers as our ſtrength in the Lord, whoſe cauſe and work we hope we own: however we can truely ſay we really intend it, and ſhall believe God will pardon the upright in heart, and if we be miſtaken ſo ought you: forgiving one another even as God for Chriſts ſake hath forgiven you.</p>
+            <closer>
+               <dateline>Edinb. <date>Octob. 23. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the SPEAKER.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HAving received notice, that there was a Force put upon the Parliament on the twelfth of this Inſtant, I have ſent this Meſſenger to your Lordſhip, to know whether that force doth continue; for I am reſolved by the Grace and Aſſi<g ref="char:EOLhyphen"/>ſtance of GOD, as a true <hi>Engliſh-man,</hi> to ſtand to and aſſert the Liberty and Au<g ref="char:EOLhyphen"/>thority of <hi>Parliament;</hi> And the Army here (praiſed be God) is very couragious
+<pb n="7" facs="tcp:119158:4"/>and unanimous, and I doubt not but to give a good accompt of this Action to You. I have, according to your Act of the Eleventh inſtant, being conſtituted a Commiſſioner of the Government of the Army, put out ſuch perſons as would not act according to your Commiſſion: I do call GOD to witneſs, That the Aſſerting of a Commonwealth is the only intent of my heart, and I deſire, if poſſible, to avoid the ſhedding of Blood, and therefore intreat You, that there may be a good underſtanding between <hi>Parliament</hi> and <hi>Army;</hi> But if they will not obey Your Commands, I will not deſert You, according to my Duty and Promiſe. Which is all at preſent from</p>
+            <closer>
+               <dateline>Edinburgh, <date>Octob. 20. 1659.</date>
+               </dateline>
+               <signed>
+                  <hi>Your humble and faithhful <hi>Servant,</hi> GEORGE MONCK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Lord FLEETWOOD.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>I Have ſent this meſſenger to your Lordſhip, to let you know that we have re<g ref="char:EOLhyphen"/>ceived notice that a part of the Army have put force upon the <hi>Parliamènt;</hi> which they ſo lately called together, and owned with the greateſt Teſtimonies of Obedience and Repentance for their former Apoſtacy from them; I hope your Lordſhip will not abet an Action of ſuch a dangerous and deſtructive Con<g ref="char:EOLhyphen"/>ſequence; I know that you love the Liberty and Peace of <hi>England</hi> ſo well, that you will uſe your beſt Care, that Attempts of this nature be ſuppreſſed. I do therefore humbly intreat you that the Parliament may be ſpeedily reſtored to that Freedom, which they enjoyed on the <hi>eleventh</hi> of this Inſtant, otherwiſe I am reſolved by the aſſiſtance of God, with this Army under my Command to De<g ref="char:EOLhyphen"/>clare for them, and to proſeeute this juſt Cauſe to the laſt drop of my Blood; I bleſs the Lord, that the Officers here are very unanimous: and for ſuch, whoſe hearts fail them, or which will not act according to their Commiſſions from the Parliament, I haveing Authority as one of the Seven Commiſſioners appointed by Act of Parliament, Do conſtitute ſuch as chearfull for this <hi>Good Old Cauſe,</hi> till the Parliaments pleaſure be further known; And I do plainly aſſure your Lord<g ref="char:EOLhyphen"/>ſhip, that I was never better ſatisfied in the juſtice of any Engagement than in this: You cannot but remember that God hath already ſhewed Himſelf glori<g ref="char:EOLhyphen"/>ous in it, and determined the Quarrel on this ſide, againſt Arbitrary power of raiſing Mony without the Peoples conſent firſt had, and the management of the
+<pb n="8" facs="tcp:119158:5"/>Militia by any other then the Parliament, I deſire your Lordſhip not to be de<g ref="char:EOLhyphen"/>luded by the ſpecious pretences of any ambitious perſons whatſoever, and do not bring all the blood that will be ſhed upon your own head; My Lord, Conſi<g ref="char:EOLhyphen"/>der how you will anſwer to the dreadful God for the ruine of three Nations, for to ſerve a luſt, or to gratifie a paſſion: For my particular, I am aſhamed of theſe Confuſions and Changes that we have made, that we are now become a ſcorn and a reproach to our very friends, and deſigned to Ruine by all our Neighbours. I take God to witneſſe, that I have no further ends then the e<g ref="char:EOLhyphen"/>ſtabliſhing of Parliamentary Authority, and thoſe good Laws that our Anceſtors, have purchaſed with ſo much blood, the ſetling the Nations in a free Com<g ref="char:EOLhyphen"/>mon wealth, and the defence of Godlineſſe and godly men, though of different Judgement; And I take my ſelf ſo far obliged, being in the Parliaments Ser<g ref="char:EOLhyphen"/>vice, to ſtand though alone in this Quarrel, and doubt not but your Lordſhip, having the fear of God in your heart, will carefully conſider of this matter Which is all at preſent from.</p>
+            <closer>
+               <dateline>Edinb. <date>Octob. 20. 1659.</date>
+               </dateline>
+               <signed>You Excellencies humble ſervant, <hi>GEORGE MONCK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Lord <hi>Lambert.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HAving notice, that part of the Army under the Parliaments Command, have, contrary to their duty, put force upon them; I have therefore ſent this Meſſenger to your Lordſhip, to intreat you to be an Inſtrument of Peace and a good underſtanding between Parliament and Army: for, if they ſhould continue this Force, I am reſolved, with the aſſiſtance of God, and that part of the Army under my Command, to ſtand by them, and aſſert their lawful Authority. For Sir, the Nation of <hi>England</hi> will not endure any Arbitra<g ref="char:EOLhyphen"/>ray Power, neither will any true Engliſh-man in the Army, ſo that ſuch a Deſigne will be ruinous and deſtructive; Therefore I do earneſtly intreat you, that we may not be a ſcorn to all the world, and a Prey to our Enemies, that the Parliament may be ſpeedily reſtored to their Freedom which they enjoyed on the 11. of this inſtant. Which is all at preſent from.</p>
+            <closer>
+               <dateline>Edinburgh, <date>Octob. 20. 1659.</date>
+               </dateline>
+               <signed>Your Lordſhips humble ſervant, GEORGE MONCK.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
